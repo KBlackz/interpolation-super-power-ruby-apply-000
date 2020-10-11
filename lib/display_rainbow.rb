@@ -1,5 +1,5 @@
-def display_rainbow(colors)
-  colors = ["red = R", "green = G", "blue = B", "indigo = I", "violet = V"]
-end
+def display_rainbow(letters)
+  letters = ["R", "O", "Y", "G", "B", "I", "V" ]
+  
   
   
