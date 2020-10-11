@@ -6,4 +6,3 @@ def display_rainbow(letters)
   puts "the first letter in the alphabet is #{G[green]
   puts "the first letter in the alphabet is #{B[blue]
   
-  
