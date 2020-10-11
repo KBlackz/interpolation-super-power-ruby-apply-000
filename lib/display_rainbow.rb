@@ -8,3 +8,6 @@ def display_rainbow(letters)
   puts "the first letter in the alphabet is #{I[indigo]}
   puts "the first letter in the alphabet is #{V[violet]}
 end
+  return letter R
+  
+end
