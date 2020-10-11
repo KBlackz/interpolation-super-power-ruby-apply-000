@@ -1,4 +1,5 @@
 def display_rainbow (colors)
-  colors = ["red", "green", "blue", "indigo", "violet" ]
+  colors = ["red = R", "green = G", "blue = B", "indigo = I" 
+  
   
   
