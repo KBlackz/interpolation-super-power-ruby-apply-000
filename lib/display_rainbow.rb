@@ -3,5 +3,5 @@ def display_rainbow(letters)
   puts "the first letter in the alphabet is #{R[red]
   puts "the first letter in the alphabet is #{O[orange]
   puts "the first letter in the alphabet is #{Y[yellow]
-  
+  puts "the first letter in the alphabet is
   
