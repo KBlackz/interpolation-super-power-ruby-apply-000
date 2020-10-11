@@ -1,4 +1,4 @@
-colors= ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet' ]
+colors =
 
   def display_rainbow(letter)
     letter = "R #{colors
